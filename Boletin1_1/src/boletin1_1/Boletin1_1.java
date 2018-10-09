@@ -8,6 +8,7 @@ public class Boletin1_1 {
     //area = base * altura / 2;
     //System.out.println("area = " + area);
     //Tamen e posible
+    //prueba
     System.out.println("area = " +base*altura);
     }
     
